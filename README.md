@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bhavyashukla12
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking forward to work on different projects.
 - 📫 you can get me through my mail "bhavya6392@gmail.com"
 
 <!---
